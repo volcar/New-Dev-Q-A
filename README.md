@@ -2,7 +2,7 @@
 ## Listen to a Podcast, answer questons. 
 _due this week_
 
-[Video to watch](https://devchat.tv/ruby-rogues/180-rr-barriers-to-new-developers-with-kinsey-ann-durham)  
+[Lsten to podcast](https://devchat.tv/ruby-rogues/180-rr-barriers-to-new-developers-with-kinsey-ann-durham)  
 
 1. **What are some stereotypes you have about software developers?**   
 
